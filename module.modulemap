@@ -1,0 +1,4 @@
+module FuzzerInterface [system] {
+  header "FuzzerInterface.h"
+  export *
+}
